@@ -1,2 +1,4 @@
 venv/
-config/
+config.py
+ojak_kebab_bot.db
+__pycache__/
